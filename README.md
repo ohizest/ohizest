@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 - **Data Extraction**: Scrapy, Python libraries
 - **Cloud Computing**: Learning and exploring modern cloud platforms
 - **Blockchain**: Token deployment with JavaScript
-- **Control Systems & Power Engineering**: Engineering expertise with over 12 years of experience
+- **Version Control & Scripting**: Git Bash, Visual Studio Code
 
 ---
 
