@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Ohizest 👋
 
-<!--
-**ohizest/ohizest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **web automation**, and **data extraction**, currently diving deeper into the exciting world of **cloud technologies**, aiming to specialize in **DevOps** or **Cloud Security**. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- **Programming Languages**: Python, JavaScript, C++, Assembly Language
+- **Web Automation**: Selenium, Scrapy
+- **Data Extraction**: Scrapy, Python libraries
+- **Cloud Computing**: Learning and exploring modern cloud platforms
+- **Blockchain**: Token deployment with JavaScript
+- **Control Systems & Power Engineering**: Engineering expertise with over 12 years of experience
+
+---
+
+## 📂 Projects
+Here are some of the highlights from my GitHub:
+### 1. **Web Scraper with Scrapy**
+   - Automated extraction of data from [specific websites].
+   - Implemented pipelines for data cleaning and storage in CSV and database formats.
+   - [🔗 View Repository](https://github.com/ohizest)
+
+### 2. **Token Deployment on Blockchain**
+   - Built and deployed secure tokens using JavaScript.
+   - Integrated with [blockchain platforms] for real-world functionality.
+   - [🔗 View Repository](https://github.com/ohizest)
+
+### 3. **Cloud Automation**
+   - Experimenting with cloud-native tools and deploying test apps.
+   - [🔗 View Repository](https://github.com/ohizest)
+
+---
+
+## 📚 Learning Path
+I'm passionate about continuous growth! Currently, I'm:
+- Mastering **cloud platforms** and deployment strategies.
+- Exploring advanced **data engineering** techniques with Python.
+- Sharpening skills in **DevOps** and **Cloud Security**.
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Your LinkedIn URL]
+- **GitHub**: [github.com/ohizest](https://github.com/ohizest)
+- **Email**: [your.email@example.com]
+
+---
+
+📌 Fun Fact: With my engineering expertise and tech skills, I aim to bridge the gap between legacy systems and modern digital transformation! 💡
+
