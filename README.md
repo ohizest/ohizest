@@ -1,4 +1,4 @@
-# Hi there, I'm Ohizest 👋
+# Hi there, I'm Ohigimetor Asikpata 👋
 
 Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **web automation**, and **data extraction**, currently diving deeper into the exciting world of **cloud technologies**, aiming to specialize in **DevOps** or **Cloud Security**. 🚀
 
