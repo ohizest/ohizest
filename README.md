@@ -16,15 +16,15 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 
 ## 📂 Projects
 Here are some of the highlights from my GitHub:
-### 1. **Web Scraper with Scrapy**
+### 1. **Web Scraper with Selenium**
    - Automated extraction of data from [specific websites].
    - Implemented pipelines for data cleaning and storage in CSV and database formats.
-   - [🔗 View Repository](https://github.com/ohizest)
+   - [🔗 View Repository](https://github.com/ohizest/scrape-companyname-website)
 
 ### 2. **Token Deployment on Blockchain**
    - Built and deployed secure tokens using JavaScript.
    - Integrated with [blockchain platforms] for real-world functionality.
-   - [🔗 View Repository](https://github.com/ohizest)
+   - [🔗 View Repository](https://github.com/ohizest/deploy-contract)
 
 ### 3. **Cloud Automation**
    - Experimenting with cloud-native tools and deploying test apps.
