@@ -43,7 +43,7 @@ I'm passionate about continuous growth! Currently, I'm:
 ## 📫 Let's Connect!
 - **LinkedIn**: [Your LinkedIn URL]
 - **GitHub**: [github.com/ohizest](https://github.com/ohizest)
-- **Email**: [your.email@example.com]
+- **Email**: [ohismike24@gmail.com]
 
 ---
 
