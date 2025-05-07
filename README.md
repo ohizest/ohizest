@@ -5,12 +5,14 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 ---
 
 ## 🛠 Skills & Tools
-- **Programming Languages**: Python, JavaScript, C++, Assembly Language
+- **Programming Languages**: Python, Bash/Shell, PowerShell, Java, JavaScript
+- **Cloud Platforms**: Google, AWS.
 - **System Administration & Automation**: Linux (e.g., server management, Bash scripting), PowerShell (e.g., task automation, system configuration)
+- **Operating System**s: UNIX, Linux, Windows
 - **Web Automation**: Selenium, Scrapy
 - **Data Extraction**: Scrapy, Python libraries
-- **Cloud Computing**: Google Cloud Platform (GCP), familiar with AWS.
 - **Version Control & IDE**: Git Bash, Visual Studio Code
+
 
 ---
 
