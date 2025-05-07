@@ -6,29 +6,29 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 
 ## 🛠 Skills & Tools
 - **Programming Languages**: Python, JavaScript, C++, Assembly Language
+- **System Administration & Automation**: Linux (e.g., server management, Bash scripting), PowerShell (e.g., task automation, system configuration)
 - **Web Automation**: Selenium, Scrapy
 - **Data Extraction**: Scrapy, Python libraries
-- **Cloud Computing**: Learning and exploring modern cloud platforms
-- **Blockchain**: Token deployment with JavaScript
-- **Version Control & Scripting**: Git Bash, Visual Studio Code
+- **Cloud Computing**: Google Cloud Platform (GCP), familiar with AWS.
+- **Version Control & IDE**: Git Bash, Visual Studio Code
 
 ---
 
 ## 📂 Projects
 Here are some of the highlights from my GitHub:
-### 1. **Web Scraper with Selenium**
+### 1. **Cloud Automation of Linux Networking Lab on GCP Using Python and Terraform**
+   - Experimenting with cloud-native tools and deploying test apps.
+   - [🔗 View Repository](https://github.com/ohizest/google-cloud-linux-networking-lab)
+
+### 2. **Web Scraper with Selenium**
    - Automated extraction of data from [specific websites].
    - Implemented pipelines for data cleaning and storage in CSV and database formats.
    - [🔗 View Repository](https://github.com/ohizest/scrape-companyname-website)
 
-### 2. **Token Deployment on Blockchain**
+### 3. **Token Deployment on Blockchain**
    - Built and deployed secure tokens using JavaScript.
    - Integrated with [blockchain platforms] for real-world functionality.
    - [🔗 View Repository](https://github.com/ohizest/deploy-contract)
-
-### 3. **Cloud Automation**
-   - Experimenting with cloud-native tools and deploying test apps.
-   - [🔗 View Repository](https://github.com/ohizest)
 
 ---
 
