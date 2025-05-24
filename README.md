@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 - **Operating System**s: UNIX, Linux, Windows
 - **Web Automation**: Selenium, Scrapy
 - **Data Extraction**: Scrapy, Python libraries
-- **Version Control & IDE**: Git Bash, Visual Studio Code
+- **Version Control & IDE**: Git, GitBash, Visual Studio Code
 
 
 ---
