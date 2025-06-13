@@ -43,7 +43,7 @@ I'm passionate about continuous growth! Currently, I'm:
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn URL]
+- **LinkedIn**: [https://www.linkedin.com/in/kevin-ohigimetor-asikpata-82ab4635/]
 - **GitHub**: [github.com/ohizest](https://github.com/ohizest)
 - **Email**: [ohismike24@gmail.com]
 
