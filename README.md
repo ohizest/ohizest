@@ -22,16 +22,16 @@ Here are some of the highlights from my GitHub:
    - Experimenting with cloud-native tools and deploying test apps.
    - [🔗 View Repository](https://github.com/ohizest/google-cloud-linux-networking-lab)
 
+### 2. **Django Web App Deployment on Google Cloud Platform (GCP)**
+   - Configured and deployed a django webapp on GCP
+   - Implemented ngninx and gunicorn for successful deployment
+   - [🔗 View Repository](https://github.com/ohizest/gcp-django-deploy-)
+
+
 ### 2. **Web Scraper with Selenium**
    - Automated extraction of data from [specific websites].
    - Implemented pipelines for data cleaning and storage in CSV and database formats.
    - [🔗 View Repository](https://github.com/ohizest/scrape-companyname-website)
-
-### 3. **Token Deployment on Blockchain**
-   - Built and deployed secure tokens using JavaScript.
-   - Integrated with [blockchain platforms] for real-world functionality.
-   - [🔗 View Repository](https://github.com/ohizest/deploy-contract)
-
 ---
 
 ## 📚 Learning Path
