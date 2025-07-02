@@ -27,8 +27,13 @@ Here are some of the highlights from my GitHub:
    - Implemented ngninx and gunicorn for successful deployment
    - [🔗 View Repository](https://github.com/ohizest/gcp-django-deploy-)
 
+### 3. **LinSysGuard: Modular Linux System Health Checker**
+   - Configured a customizable, modular Bash script based tool that performs detailed health checks on Linux systems.
+   - Modular design that enables only the system checks you need 
+   - [🔗 View Repository](https://github.com/ohizest/linux-system-health-check)
 
-### 2. **Web Scraper with Selenium**
+
+### 4. **Web Scraper with Selenium**
    - Automated extraction of data from [specific websites].
    - Implemented pipelines for data cleaning and storage in CSV and database formats.
    - [🔗 View Repository](https://github.com/ohizest/scrape-companyname-website)
@@ -43,7 +48,7 @@ I'm passionate about continuous growth! Currently, I'm:
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/kevin-ohigimetor-asikpata-82ab4635/]
+- **LinkedIn**: [https://www.linkedin.com/in/kevin-asikpata-cloud-devops/]
 - **GitHub**: [github.com/ohizest](https://github.com/ohizest)
 - **Email**: [ohismike24@gmail.com]
 
