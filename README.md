@@ -27,7 +27,7 @@ Here are some of the highlights from my GitHub:
    - Implemented ngninx and gunicorn for successful deployment
    - [🔗 View Repository](https://github.com/ohizest/gcp-django-deploy-)
 
-### 3. **LinSysGuard: Modular Linux System Health Checker**
+### 3. **SysGuard: Modular Linux System Health Checker**
    - Configured a customizable, modular Bash script based tool that performs detailed health checks on Linux systems.
    - Modular design that enables only the system checks you need 
    - [🔗 View Repository](https://github.com/ohizest/linux-system-health-check)
