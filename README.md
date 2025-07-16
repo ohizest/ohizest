@@ -5,16 +5,16 @@ Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **w
 ---
 
 ☁️ Cloud & Infrastructure
-Cloud Platforms: Google Cloud (GKE, IAM, Pub/Sub, VPC, Firewall Rules, Load Balancing), AWS
+Cloud Platforms: Google Cloud, AWS, Azure
 Monitoring & Logging: Google Cloud Logging & Monitoring (Advanced), Prometheus (Learning), Grafana (Learning)
 Networking: HTTP/S, DNS, Load Balancing, VPC
 
 🐳 Containers & Orchestration
-Kubernetes (GKE), Docker, Helm, ConfigMaps, Secrets, Autoscaling
+Kubernetes (GKE, EKS), Docker, Helm, ConfigMaps, Secrets, Autoscaling
 
 🛠️ DevOps & CI/CD
 CI/CD: GitHub, Git, Helm Charts, Google Cloud Build
-Infrastructure as Code (IaC): Terraform (Optional, if applicable)
+Infrastructure as Code (IaC): Terraform
 
 💻 Programming & Scripting
 Languages: Python, Bash/Shell, PowerShell, Java, JavaScript
@@ -48,7 +48,7 @@ Here are some of the highlights from my GitHub:
    - Configured and deployed a django webapp on GCP
    - Implemented ngninx and gunicorn for successful deployment
    - [🔗 View Repository](https://github.com/ohizest/gcp-django-deploy-)
-   - 
+     
 ### 4. **Cloud Automation of Linux Networking Lab on GCP Using Python and Terraform**
    - Experimenting with cloud-native tools and deploying test apps.
    - [🔗 View Repository](https://github.com/ohizest/google-cloud-linux-networking-lab)
@@ -68,7 +68,7 @@ I'm passionate about continuous growth! Currently, I'm:
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/kevin-asikpata-cloud-devops/]
+- **LinkedIn**: [https://www.linkedin.com/in/kevin-asikpata/]
 - **GitHub**: [github.com/ohizest](https://github.com/ohizest)
 - **Email**: [ohismike24@gmail.com]
 
