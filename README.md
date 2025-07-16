@@ -1,6 +1,8 @@
 # Hi there, I'm Kevin Asikpata 👋
 
-Welcome to my GitHub! I'm a versatile engineer with expertise in **Python**, **web automation**, and **data extraction**, currently diving deeper into the exciting world of **cloud technologies**, aiming to specialize in **DevOps** or **Cloud Security**. 🚀
+Welcome to my GitHub! 👋
+
+I'm a cloud-focused engineer with strong foundations in Python, automation, and data engineering, now specializing in DevOps & Cloud Security. Passionate about building scalable systems on GCP/AWS/Azure, automating workflows, and securing cloud-native architectures.
 
 ---
 
